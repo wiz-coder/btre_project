@@ -156,4 +156,8 @@ dmypy.json
 # text editor settings
 .vscode/
 
+# media and static files
+/static
+/media
+
 # End of https://www.toptal.com/developers/gitignore/api/django
